@@ -18,16 +18,16 @@
 
 ### Repository Structure
 #### data/: Directory containing the simulated dataset files.
-notebooks/: Directory for Jupyter notebooks demonstrating data preprocessing and analysis techniques.
+#### notebooks/: Directory for Jupyter notebooks demonstrating data preprocessing and analysis techniques.
 #### scripts/: Directory for any scripts related to data processing or modeling.
 #### README.md: Overview and instructions for using the repository.
 
 ### Getting Started
 #### To get started with this project:
 
-Clone this repository to your local machine.
-Navigate to the notebooks directory to explore example notebooks on data preprocessing and modeling.
-Use the dataset in the data directory for practice and experimentation.
+#### Clone this repository to your local machine.
+#### Navigate to the notebooks directory to explore example notebooks on data preprocessing and modeling.
+#### Use the dataset in the data directory for practice and experimentation.
 
 ### Contributing
 #### Contributions to improve data simulations, add new features, or enhance documentation are welcome. Please fork the repository and submit a pull request outlining your proposed changes.
