@@ -18,8 +18,11 @@ Modeling: Apply machine learning algorithms or statistical techniques to analyze
 
 ### Repository Structure
 data/: Directory containing the simulated dataset files.
+
 notebooks/: Directory for Jupyter notebooks demonstrating data preprocessing and analysis techniques.
+
 scripts/: Directory for any scripts related to data processing or modeling.
+
 README.md: Overview and instructions for using the repository.
 
 ### Getting Started
