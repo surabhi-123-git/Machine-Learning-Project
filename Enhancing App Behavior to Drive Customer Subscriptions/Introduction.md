@@ -7,5 +7,5 @@ The target audience consists of users who have installed and used the company's 
 ### Product:
 Paid memberships provide enhanced versions of the free products, along with additional features. For example, YouTube Red allows users to continue listening to videos even when they leave the app.
 
-## Goal:
+## Goal of the Project:
 The aim of the model is to predict which users are unlikely to subscribe to the paid membership. This way, companies can focus their marketing efforts on convincing these users to upgrade to paid memberships.
