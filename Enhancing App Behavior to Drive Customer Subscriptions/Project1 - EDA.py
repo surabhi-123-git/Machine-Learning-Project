@@ -145,5 +145,5 @@ dataset.head()
 dataset.describe()
 dataset.columns
 
-dataset.to_csv('new_appdata10.csv', index = False)
+dataset.to_csv('new_appdata.csv', index = False)
 
